@@ -13,4 +13,7 @@ infringes on copyright, which can lead to legal issues. Support content creators
 To download a video, simply run the script and input the URL of the YouTube video you wish to download. 
 The script will fetch the highest resolution available and download it to your current working directory.
 
-
+ **Install Dependencies:**
+    ```bash
+    pip install pytube
+    ```
